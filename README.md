@@ -3,6 +3,7 @@ Do you ever get tired of putting in countless assignments, midterms, and exams f
 
 We have the perfect program for you!
 
+//The website is currently offline.
 Website: https://guava-gecko-w8bf.squarespace.com
 Password: Boston
 
